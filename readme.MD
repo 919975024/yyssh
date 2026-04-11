@@ -5,3 +5,5 @@ NEW_FILE_CODE
 
 1. 将整个文件夹下载到 Windows 系统
 2. 双击运行 `YYSSH-Terminal.exe` 即可启动程序
+
+### 如果觉得好用，麻烦点个star喔
